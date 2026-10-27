@@ -51,5 +51,9 @@ Desarrolladora **Full Stack & AI Builder** de Buenos Aires. Combino desarrollo w
 ## 📊 Actividad
 
 <p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuciones en 3D" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sofigandulfo&locale=es&background=0A0C1C&border=2C3150&ring=7DD3FC&fire=C084FC&currStreakLabel=7DD3FC&sideLabels=C8D3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C8199" alt="Racha de contribuciones" width="70%" />
 </p>
